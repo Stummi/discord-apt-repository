@@ -22,3 +22,7 @@ mv tmp/$newVersion pool/main/
 
 dpkg-scanpackages pool/ > dists/stable/main/binary-amd64/Packages
 (cd dists/stable/ && ../../gen.sh > Release)
+
+git add .
+git commit -m "Bump to $newVersion"
+git push
