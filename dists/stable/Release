@@ -6,10 +6,10 @@ Version: 1.0
 Architectures: amd64 
 Components: main
 Description: An example software repository
-Date: Tue, 20 Jan 2026 22:29:52 +0000
+Date: Mon, 26 Jan 2026 22:30:55 +0000
 MD5Sum:
- 2406cd8ac1d2967ef23c24ef83e08398 757 main/binary-amd64/Packages
+ d671b0f4056b3db7dfc50d9f99a1ad2a 757 main/binary-amd64/Packages
 SHA1:
- ed208e067552826b24b187ca9ff4e809d267f512 757 main/binary-amd64/Packages
+ 668561cfb5314e55861a74c2e21233d9297e2966 757 main/binary-amd64/Packages
 SHA256:
- 38b335d6bab9537c163e0f2c85ad3a2f6741baf8203968874fc4e265e73383ce 757 main/binary-amd64/Packages
+ d9474ae4bc624757a97ea8844ce3914137a3682cc51443c07d0e858e1ab3ef15 757 main/binary-amd64/Packages
